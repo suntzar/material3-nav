@@ -1,0 +1,6 @@
+{
+  "name": "Navegador",
+  "description": "Um aplicativo de navegador simples com estilo Material 3",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
